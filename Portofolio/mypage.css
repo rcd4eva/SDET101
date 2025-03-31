@@ -1,0 +1,118 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f2f5;
+    color: #333;
+}
+
+header {
+    background-color: #005a9e;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #007acc;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #004a8d;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+#projects .project-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.project-card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    width: calc(33% - 20px);
+    text-align: center;
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.1);
+    border: 2px solid #007acc;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    background-color: #e6f7ff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1);
+    border: 2px solid #007acc;
+    box-sizing: border-box;
+}
+
+input, textarea, button {
+    margin-bottom: 15px;
+    padding: 12px;
+    border: 1px solid #007acc;
+    background-color: #ffffff;
+    color: #333;
+    border-radius: 6px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #004a8d;
+}
+
+footer {
+    text-align: center;
+    background-color: #005a9e;
+    color: #fff;
+    padding: 15px 0;
+}
+footer a {
+    color: #ffcc00;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #ff9900;
+}

@@ -1,0 +1,274 @@
+Why did the developer go to therapy?
+They had too many unresolved issues.Hey, dad, did you get a haircut?
+No, I got them all cut.Why didn’t the orange win the race?
+It ran out of juice.
+What do you call a sheep with no legs?
+A cloud.
+Where do you learn to make banana splits?
+At sundae school.
+Why can't a bicycle stand on its own?
+It's two-tired.
+What did the router say to the doctor?
+It hurts when IP.
+What's black and white and read all over?
+The newspaper.
+
+Did you hear about the hungry clock?
+It went back four seconds.
+
+What do you give a sick lemon?
+Lemonaid.
+How come a man driving a train got struck by lightning?
+He was a good conductor.
+
+Why was the font always tired?
+It was always bold.
+Why did the developer go broke?
+They kept spending all their cache.
+Why can't bicycles stand on their own?
+They are two tired
+Why did the developer quit his job?
+Because he didn't get arrays.
+Why did the developer go broke?
+They kept spending all their cache.
+Did you hear about the bread factory burning down?
+They say the business is toast.
+Why was the designer always cold?
+Because they always used too much ice-olation.
+Why didn’t the orange win the race?
+It ran out of juice.
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
+You can only use a low ha.
+What's the best thing about a Boolean?
+Even if you're wrong, you're only off by a bit.
+What did the left eye say to the right eye?
+Between us, something smells!
+Why did the half blind man fall in the well?
+Because he couldn't see that well!
+Did you hear about the submarine industry?
+It really took a dive...
+Why would a guitarist become a good programmer?
+He's adept at riffing in C#.
+How do you fix a broken pizza?
+With tomato paste.
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
+I'm sorry, we don't serve food here
+What time did the man go to the dentist?
+Tooth hurt-y.
+Want to hear a joke about construction?
+Nah, I'm still working on it.
+Why can’t you hear a pterodactyl go to the bathroom?
+The p is silent.
+What kind of shoes does a thief wear?
+Sneakers
+What did the janitor say when he jumped out of the closet?
+Supplies!
+Hey, wanna hear a joke?
+Parsing HTML with regex.
+What do you call a computer mouse that swears a lot?
+A cursor!
+Hey, wanna hear a joke?
+Parsing HTML with regex.
+How do you generate a random string?
+Put a Windows user in front of Vim and tell them to exit.
+Why do mathematicians hate the U.S.?
+Because it's indivisible.
+Did you hear about the submarine industry?
+It really took a dive...
+What did the spaghetti say to the other spaghetti?
+Pasta la vista, baby!
+Why are mummys scared of vacation?
+They're afraid to unwind.
+Why did the programmer always carry a pencil?
+They preferred to write in C#.
+Why are ghosts bad liars?
+Because you can see right through them!
+What do you give a sick lemon?
+Lemonaid.
+99.9% of the people are dumb!
+Fortunately I belong to the remaining 1%
+A user interface is like a joke.
+If you have to explain it then it is not that good.
+What kind of music do planets listen to?
+Nep-tunes.
+What's Forrest Gump's password?
+1Forrest1
+Where do sheep go to get their hair cut?
+The baa-baa shop.
+How do you steal a coat?
+You jacket.
+Why did the programmer bring a broom to work?
+To clean up all the bugs.
+What does the mermaid wear to math class?
+Algae-bra.
+What do you call someone with no nose?
+Nobody knows.
+Why can’t you hear a pterodactyl go to the bathroom?
+The p is silent.
+How do you tell the difference between a crocodile and an alligator?
+You will see one later and one in a while.
+What happens when you anger a brain surgeon?
+They will give you a piece of your mind.
+How does a train eat?
+It goes chew, chew
+Why did the programmer quit their job?
+They didn't get arrays.
+Why did the chicken cross the playground?
+To get to the other slide.
+Want to hear a joke about a piece of paper?
+Never mind...it's tearable
+What’s the object-oriented way to become wealthy?
+Inheritance.
+What goes after USA?
+USB.
+Did you hear the joke about the wandering nun?
+She was a roman catholic.
+A grocery store cashier asked if I would like my milk in a bag.
+I told her 'No, thanks. The carton works fine.'
+Why can't a bicycle stand on its own?
+It's two-tired.
+What do you get when you cross a React developer with a mathematician?
+A function component.
+What did the digital clock say to the grandfather clock?
+Look, no hands!
+What do you do on a remote island?
+Try and find the TV island it belongs to.
+What do you call a cow with no legs?
+Ground beef!
+Why do programmers prefer dark chocolate?
+Because it's bitter like their code.
+What do vegetarian zombies eat?
+Grrrrrainnnnnssss.
+Why did the designer break up with their font?
+Because it wasn't their type.
+Why did the girl smear peanut butter on the road?
+To go with the traffic jam.
+What did the pirate say on his 80th birthday?
+Aye Matey!
+What goes after USA?
+USB.
+What is this movie about?
+It is about 2 hours long.
+A ham sandwhich walks into a bar and orders a beer. The bartender says...
+I'm sorry, we don't serve food here
+Why do crabs never give to charity?
+Because they’re shellfish.
+What did the duck say when he bought lipstick?
+Put it on my bill
+Why is peter pan always flying?
+Because he neverlands
+Why are pirates called pirates?
+Because they arrr!
+Ever wondered why bees hum?
+It's because they don't know the words.
+Why don't React developers like nature?
+They prefer the virtual DOM.
+When does a joke become a dad joke?
+When it becomes apparent.
+How did the hipster burn the roof of his mouth?
+He ate the pizza before it was cool.
+What's the best thing about a Boolean?
+Even if you're wrong, you're only off by a bit.
+Finally realized why my plant sits around doing nothing all day...
+He loves his pot.
+Did you hear about the Mexican train killer?
+He had loco motives
+What do you call a fat psychic?
+A four-chin teller.
+What do you call fake spaghetti?
+An impasta.
+How many hipsters does it take to change a lightbulb?
+Oh, it's a really obscure number. You've probably never heard of it.
+What kind of music do welders like?
+Heavy metal.
+When is a door not a door?
+When it's ajar.
+What did the 0 say to the 8?
+Nice belt.
+What do you call a belt made out of watches?
+A waist of time.
+Have you heard of the band 1023MB?
+They haven't got a gig yet.
+Why did the octopus beat the shark in a fight?
+Because it was well armed.
+What's the best part about TCP jokes?
+I get to keep telling them until you get them.
+What do prisoners use to call each other?
+Cell phones.
+Why does Norway have barcodes on their battleships?
+So when they get back to port, they can Scandinavian.
+What kind of shoes does a thief wear?
+Sneakers
+How do you make the number one disappear?
+Add the letter G and it’s “gone”!
+I just watched a documentary about beavers.
+It was the best dam show I ever saw
+The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
+Thank you very much, sir.
+How did Darth Vader know what Luke was getting for Christmas?
+He felt his presents.
+How good are you at Power Point?
+I Excel at it.
+What do you call fake spaghetti?
+An impasta.
+What do ghosts call their true love?
+Their ghoul-friend
+What's the best thing about a Boolean?
+Even if you're wrong, you're only off by a bit.
+Did you hear about the chameleon who couldn't change color?
+They had a reptile dysfunction.
+Why are oranges the smartest fruit?
+Because they are made to concentrate. 
+What's the worst thing about ancient history class?
+The teachers tend to Babylon.
+What do you call a troublesome Canadian high schooler?
+A poutine.
+What do birds give out on Halloween?
+Tweets.
+Why would a guitarist become a good programmer?
+He's adept at riffing in C#.
+What did the late tomato say to the early tomato?
+I’ll ketch up
+What did the beaver say to the tree?
+It's been nice gnawing you.
+How does the moon cut his hair?
+Eclipse it.
+Did you hear about the new restaurant on the moon?
+The food is great, but there’s just no atmosphere.
+How do the trees get on the internet?
+They log on.
+How many seconds are in a year?
+12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+What's a computer's favorite snack?
+Microchips.
+What did the traffic light say to the car as it passed?
+Don't look I'm changing!
+Why do you never see elephants hiding in trees?
+Because they're so good at it.
+What does the mermaid wear to math class?
+Algae-bra.
+Why do bees have sticky hair?
+Because they use honey combs!
+What do you call a computer mouse that swears a lot?
+A cursor!
+Lady: How do I spread love in this cruel world?
+What did the Java code say to the C code?
+You've got no class.
+How come the stadium got hot after the game?
+Because all of the fans left.
+What's blue and not very heavy?
+Light blue.
+Well...
+That’s a deep subject.
+What's the difference between a guitar and a fish?
+You can tune a guitar but you can't "tuna"fish!
+Did you hear about the Mexican train killer?
+He had loco motives
+What did one snowman say to the other snow man?
+Do you smell carrot?
+What did the Dorito farmer say to the other Dorito farmer?
+Cool Ranch!
+What did the late tomato say to the early tomato?
+I’ll ketch up
+Why do bees hum?
+Because they don't know the words.

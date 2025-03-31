@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="mypage.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Discover my projects, skills, and experience.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-grid">
+            <div class="project-card">
+                <article>
+                    <h4>Interactive Web Application for Data Analysis</h4>
+                    <p> The project uses Plotly Dash to create an interactive web application for analyzing data stored in a database directly from the browser. 
+                        Users can easily filter the data through dropdown boxes with predefined parameters, dynamically updating the graphs as selections are made. 
+                        Additionally, the application provides functionality to download the displayed graphs as images and 
+                        export the filtered data as CSV files, enabling convenient reporting and further analysis. 
+                    </p>
+
+
+                </article>
+            </div>
+            <div class="project-card">
+                <h4>MQTT to SQL Translator</h4>
+                <p>
+                    A Python-based application that subscribes to an MQTT broker to store published data in a MariaDB database,
+                    and also monitors the database for new entries, publishing updated values back to relevant MQTT topics for 
+                    subscribed devices.
+                </p>
+            </div>
+            <div class="project-card">
+                <h4>Automated Data Collector </h4>
+                <p>
+                    A Raspberry Pi Pico- ased device that collects various sensor data and publishes it to an MQTT broker via 
+                    its built-in WiFi module. It features a HDMI touchscreen for real-time adjustment of data collection parameters. 
+                    The device will use the MQTT broker as cloud-based EEPROM storage, restoring configuration settings automatically 
+                    upon restart, and at the same time allowing for parameters from a web application connected to the MQTT broker.
+                    Device will use the local flash memory as caching to store data temporarily when the MQTT broker is unavailable.
+                </p>
+            </div>
+            <div class="project-card">Project 3</div>
+
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a super nerd with a  passion for everything technology.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Ricardo DaSilveira. All Rights Reserved. <a href="mailto:rcd4@njit.edu">rcd4@njit.edu</a></p>
+    </footer>
+</body>
+</html>
