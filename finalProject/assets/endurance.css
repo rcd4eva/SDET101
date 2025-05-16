@@ -1,0 +1,24 @@
+#play-button:disabled,
+#play-button.disabled {
+  background-color: #c8e3c8 !important;   /* bootstrap “success” green */
+  border-color:     #5cb85c !important;
+  color:            white      !important;
+  opacity:          0.7        !important; /* slightly transparent */
+}
+
+/* when Pause is disabled, give it a light red background instead of grey */
+#pause-button:disabled,
+#pause-button.disabled {
+  background-color: #e7cecd !important;   /* bootstrap “danger” red */
+  border-color:     #d9534f !important;
+  color:            white      !important;
+  opacity:          0.7        !important;
+}
+
+.row-n2e >td {
+    background-color: #2543db28; /* light green */
+}
+
+.row-e2n > td {
+    background-color: #d27a0f39; /* light red */
+}
