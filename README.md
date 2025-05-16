@@ -7,25 +7,27 @@
     
 - **Mosquitto Broker:**  
     The app requires an MQTT broker. You can use the public broker at [mosquitto.org](https://test.mosquitto.org/).
-    
+
 - **Database:**  
     The app uses SQLite for portability, but it can be adapted to other databases if needed.
 
 ### Setup Instructions
 
 1. **Directory Structure:**  
-     Ensure all files, including the `assets` directory (used by dash-bootstrap-components for custom CSS), are in the same directory.
+    Download all the files from the `finalProject` folder. Ensure all files, including the `assets` directory (used by dash-bootstrap-components for custom CSS), are in the same directory.
 
 2. **Create the Database:**  
-     Run the `createDB.py` script to set up the necessary tables in the SQLite database:
-
+    Run the `createDB.py` script to set up the necessary tables in the SQLite database:
+    Alternatively you can use the already populated "sdet101_test.db"
+    make sure to change the 
 3. **Start the  MQTT broker:**  
     The app is ocnfigure to use the default port number 1883
 
 3. **Run the MQTT to Databse translator App:** 
     Check that the script's MQTT_SERVER is using the correct ip address.
     Default value is "localhost".
-    Run tbe `serverMQTT2DB.py` script
+    Also make sure that the "DB_NAME" variable matches the name of sqlite dabase filename that is being used.
+    When you are ready, run tbe `serverMQTT2DB.py` script.
 
 3. **Simulate an IoT client and crearte some data:** 
     Check the 'host' variable to match the desired target, default is 'localhost'
