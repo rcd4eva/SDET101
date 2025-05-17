@@ -26,7 +26,7 @@
 3. **Start the  MQTT broker:**  
     The broker should be configured to use the default port number 1883 and allow anonymous login or use sockets for authentication.
 
-4. **Run the MQTT to Databse translator App:** 
+4. **Run the MQTT to Databse translator Script:** 
     Check that the script's **MQTT_SERVER** variable is using the correct ip address.
     Default value is "localhost".
     Also make sure that the **DB_NAME** variable matches the name of sqlite dabase filename that is being used.
