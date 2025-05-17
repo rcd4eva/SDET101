@@ -17,7 +17,7 @@
     Download all the entire **`finalProject`** folder. Ensure all files, including the **`assets`** directory (used by dash to load custom .css), are in the same directory.
 
 2. **Install Python Dependencies:**  
-    The **`requirements.txt`** inside the project's folder contains the required python libraries.
+    The **`requirements.txt`** file inside the project's folder contains the required python libraries.
 
 2. **Create the Database:**  
     Run the **`createDB.py`** script to create the sqlite database file and populate it with the necessary tables.
@@ -32,15 +32,15 @@
     Also make sure that the **DB_NAME** variable matches the name of sqlite dabase filename that is being used.
     When you are ready, run tbe **`serverMQTT2DB.py`** script.
 
-5. **Simulate an IoT client and crearte some data:** 
-    Check the **'host'** variable to match the desired target, default is 'localhost'
-    Run tbe **`MQTTclient.py`** script and follow the terminal isntructions.
-    You can also run the client once the system is runnign and watch the real time graph is new data coems on.
+5. **Simulate an IoT client to create data:**
+    The **`MQTTclient.py`** script generates fake date so you can test your system.
+    Edit the script's **'host'** variable to match the desired target, default is 'localhost'
+    The script will ask you for some parameters for the data being generated so you easily identify the data being submitted.
 
 6. **Run the App:**  
-     Start the Alexandria Data Monitoring App by running the **`animeEndurance2.py`**.
-     The default tcp port is **18080**, but you can easily configure it to run at any other.
-     Finally, go to **`http://localhost:18080`**
+     To start the Alexandria Data Monitoring App, run the **`animeEndurance2.py`**.
+     The default tcp port is **18080**, but you can easily edit the script and change it to your needs.
+     Once it is running, go to **`http://localhost:18080`**
 
 ### Notes
 
